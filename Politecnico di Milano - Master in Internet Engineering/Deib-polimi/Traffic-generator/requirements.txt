@@ -1,0 +1,17 @@
+flwr == 1.4.0
+torch == 2.0.1
+torchvision == 0.15.2
+requests>=2.9.1
+aiohttp
+aiortc
+opencv-python==4.8.1.78
+opencv-contrib-python
+pyshine
+numpy
+imutils
+pyrogram
+pysftp
+yt-dlp
+paho-mqtt
+libtorrent
+torrentp
